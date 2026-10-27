@@ -12,6 +12,7 @@ def main():
     print("=" * 45)
     print("   PyJen017: Simple Addition Program")
     print("   Student ID: 6752410017")
+    print("   Version: 2.0 (CI/CD Auto-Build)")
     print("=" * 45)
 
     num1 = 15
